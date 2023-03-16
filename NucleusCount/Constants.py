@@ -1,0 +1,2 @@
+SIZE = 40
+RADIUS = SIZE // 2
